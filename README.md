@@ -1,4 +1,4 @@
 # newrepostiory
 this is my 2nd repo
 <br>
-author by - shiv kumar
+author by - shiv kumar(IIT BHU)
